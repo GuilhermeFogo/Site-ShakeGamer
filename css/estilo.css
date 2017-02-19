@@ -1,0 +1,77 @@
+.navbar{
+	height: 40px;
+}
+
+.list-outro li{
+	color: #000000;
+	text-decoration: none;
+	list-style: none;
+}
+
+.list-outro a{
+	color: #000000;
+	text-decoration: none;
+}
+
+.list-outro a:hover{
+	color: #000000;
+	text-decoration: none;
+}
+
+.bg-outro{
+	background-color:#A9E2F3;
+}
+
+
+.border{
+	border:2px solid;
+	width:150px;
+	height: 50px;
+	margin: 10px;
+}
+
+.center img{
+	text-align: center;
+	padding: auto;
+	margin: auto;
+}
+
+.center{
+	text-align: center;
+	padding: auto;
+	margin: auto;
+}
+
+.linha{
+	border: 1px solid;
+	width: 100%;
+}
+
+.banner{
+	border:1px solid;
+	width:460px;
+	height: 60px;
+	text-align:center;
+	margin: 2px 2px 5px 2px;
+}
+
+.banner-vertical{
+	border:1px solid;
+	width:336px;
+	height: 280px;
+	text-align:center;
+	margin: 2px 2px 5px 2px;
+}
+
+.button{
+	margin: 6px 6px 6px 6px;
+	padding: 0px;
+}
+
+.button button:hover{
+	background-color: #FF0000;
+	color: #000000;
+	text-shadow: 6px #000;
+}
+
+
